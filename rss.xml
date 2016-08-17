@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[www.facebook.com/chadlbmusic]]></title>
+        <description><![CDATA[www.facebook.com/chadlbmusic]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 20:24:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chad Lefkowitz-Brown, Black Nile (Wayne Shorter)]]></title>
+            <description><![CDATA[<article><h1>Chad Lefkowitz-Brown, Black Nile (Wayne Shorter)</h1><p>Solo transcription available at: http://www.chadlefkowitz-brown.com/#!charts/c45q https://www.chadlefkowitz-brown.com https://www.facebook.com/ChadLBMusic https://twitter.com/ChadLBsax Chad Lefkowitz-Brown: tenor saxophone Steven Feifke: piano Raviv Markovitz: bass Jimmy Macbride: drums Recorded at ParkWest Studios Mixed and Mastered by Jim Clouse Video by Andreas Klein Skype lessons available at: http://www.chadlefkowitz-brown.com/#!teaching/c1g8i</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=wQelW49MNU0</link>
+            <guid isPermaLink="false">bf08f8d4-8b23-4268-a168-2f87bc34b0fb</guid>
+            <pubDate>Wed, 17 Aug 2016 20:24:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
